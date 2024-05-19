@@ -1,5 +1,5 @@
 - 👋 Hi, 我是 @chenwumm
-- 👀 我的兴趣爱好:我喜欢编程,我会python,shell html,scratch等语言。
+- 👀 我的兴趣爱好:我喜欢编程,我会python,shell编程语言 HTML, markdown标记语言
 - 🌱 我目前正在学习:html
 - 💞️ 我想跟你合作:
 - 📫 如何联系我:我的微信号:chenwumm1369 QQ号:496163862

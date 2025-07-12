@@ -1,3 +1,6 @@
+---
+
+
 你好，我是**晨雾㐅是只屑**，是一只**学牲编程爱好者**。我会bash脚本自动化、HTML、MarkDown，也会一点点Python。你可以访问我的博客[雾曰](https://chenwumm.github.io/)来获取我的动态。
 <!---
 - 👋 Hi, 我是 @chenwumm
@@ -12,4 +15,3 @@
 chenwumm/chenwumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-

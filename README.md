@@ -1,4 +1,4 @@
-<img src="https://github.com/chenwumm.png?size=300" alt="avatar" style="border-radius: 50%;">
+![头像](https://chenwumm.github.io/pic/avatar.jpg)
 ---
 
 你好，我是**晨雾㐅是只屑**，是一只**学牲编程爱好者**。我会bash脚本自动化、HTML、MarkDown，也会一点点Python。你可以访问我的博客[雾曰](https://chenwumm.github.io/)来获取我的动态。  

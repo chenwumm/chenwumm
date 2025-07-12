@@ -3,7 +3,7 @@
 
 你好，我是**晨雾㐅是只屑**，是一只**学牲编程爱好者**。我会bash脚本自动化、HTML、MarkDown，也会一点点Python。你可以访问我的博客[雾曰](https://chenwumm.github.io/)来获取我的动态。  
 联系方式:
-你可以通过<a href="mailto:496163862@qq.com">邮箱(496163862@qq.com)来联系我，也可以加微信`chenwumm1369`或QQ`496163862`。
+你可以通过邮箱`496163862@qq.com`来联系我，也可以加微信`chenwumm1369`或QQ`496163862`。
 <!---
 - 👋 Hi, 我是 @chenwumm
 - 👀 我的兴趣爱好:我喜欢编程,我会python,Bash编程语言 HTML, markdown标记语言

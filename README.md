@@ -1,4 +1,4 @@
-![头像](https://chenwumm.github.io/pic/avatar.jpg)
+![](https://chenwumm.github.io/pic/avatar.jpg)
 ---
 你好，我是**晨雾㐅是只屑**，是一只**学牲编程爱好者**。我会bash脚本自动化、HTML、MarkDown，也会一点点Python。你可以访问我的博客[雾曰](https://chenwumm.github.io/)来获取我的动态。  
 联系方式:  
@@ -14,3 +14,8 @@
   ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
   ![Nano](https://img.shields.io/badge/-Nano-4271AE?style=flat&logo=gnu&logoColor=white)
   ![GNU ed](https://img.shields.io/badge/-GNU%20ed-4D4D4D?style=flat&logo=gnu&logoColor=white)
+  
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chenwumm&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenwumm&layout=compact&theme=radical" height="160">
+  </div>
